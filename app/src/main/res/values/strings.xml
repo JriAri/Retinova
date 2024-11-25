@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Retinova</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_detect">Deteksi</string>
+    <string name="title_person">Profile</string>
+    <string name="dummy_token">dummy_token</string>
+    <string name="login_success">Login Berhasil</string>
+    <string name="empty_email_password">Email atau password tidak boleh kosong</string>
+    <string name="wrong_email_password">Email atau password salah</string>
+    <string name="registration_success">Registrasi Berhasil</string>
+    <string name="registration_failed">Registrasi Gagal, Periksa Input Anda</string>
+
+    <string name="onboarding_title_detection">Deteksi Diabetesmu</string>
+    <string name="onboarding_title_chatbot">Chatbot Pintar</string>
+    <string name="onboarding_title_article">Artikel dan Panduan</string>
+
+    <string name="onboarding_desc_detection">Cegah komplikasi diabetes dengan mendeteksi lebih awal melalui scan retina mata</string>
+    <string name="onboarding_desc_chatbot">Dapatkan jawaban cepat dengan chatbot yang siap membantu Anda kapan saja</string>
+    <string name="onboarding_desc_article">Akses artikel untuk memperdalam pemahaman Anda mengenai diabetes</string>
+
+    <string name="get_started">Get Started</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="back">Back</string>
+
+    <string name="hint_email">Masukkan Email Anda</string>
+    <string name="btn_reset_password">Reset Password</string>
+
+    <string name="tagline">Deteksi Diabetes Lebih Awal</string>
+    <string name="login_title">Masuk ke Akun Anda</string>
+    <string name="google_icon_description">Ikon Google</string>
+    <string name="login_with_google">Masuk dengan Google</string>
+    <string name="or">Atau</string>
+    <string name="email_label">Email</string>
+    <string name="email_hint">Masukkan email Anda</string>
+    <string name="password_label">Password</string>
+    <string name="password_hint">Masukkan password Anda</string>
+    <string name="forgot_password">Lupa Password?</string>
+    <string name="login_button">Masuk</string>
+    <string name="no_account">Belum punya akun?</string>
+    <string name="register_now">Daftar Sekarang</string>
+    <string name="app_icon_description">app_deskripsi</string>
+
+    <!-- Registration Form -->
+    <string name="daftarkan_akun_anda">Daftarkan Akun Anda</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="nama_hint">Masukkan nama Anda</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="konfirmasi_password">Konfirmasi Password</string>
+    <string name="konfirmasi_password_hint">Konfirmasi password Anda</string>
+    <string name="daftar">Daftar</string>
+    <string name="sudah_punya_akun">Sudah punya akun?</string>
+    <string name="login_sekarang">Masuk Sekarang</string>
+</resources>
